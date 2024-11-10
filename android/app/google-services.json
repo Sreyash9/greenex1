@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387458115460",
+    "project_id": "green-2xtu23",
+    "storage_bucket": "green-2xtu23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387458115460:android:6a753a97b475d0738b1fd1",
+        "android_client_info": {
+          "package_name": "com.mycompany.green"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQIsHQjQzmnBu__G-vxLFLx-9gSwB1vhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
